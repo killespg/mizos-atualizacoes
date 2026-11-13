@@ -1,0 +1,9 @@
+# Atualizações do MizOS (programas, Modo Jogo, visual...).
+# Os pacotes são assinados; o apt só aceita os assinados pela chave do MizOS.
+Types: deb
+URIs: https://killespg.github.io/mizos-atualizacoes
+Suites: trixie
+Components: main
+# Só 64 bits: sem isso, quem tem i386 ligado (Steam) vê um aviso a cada atualização
+Architectures: amd64
+Signed-By: /usr/share/keyrings/mizos.gpg

@@ -1,0 +1,108 @@
+Package: mizos-base
+Architecture: all
+Version: 0.1.0+202611122341
+Priority: optional
+Section: misc
+Maintainer: MizOS
+Installed-Size: 780
+Depends: mizos-desktop, libnotify-bin, pipewire-bin, apt
+Filename: pool/main/m/mizos-base/mizos-base_0.1.0+202611122341_all.deb
+Size: 105088
+MD5sum: a5e78b26e9e4d22d8f21b1cae5802b75
+SHA1: d9bdfe89edb0e29f026273dd6e817f7b0a7dfebc
+SHA256: 43b00377f673c751626e037deaf1aeb6debc6325d2d239eec99ca17bde8269d1
+SHA512: 2d74da2bcb9a97d60bc1b782ceb446b8a905c07431ec73b9b20af7204b8d41805d589f49b1760b30107738c420b911e62cd93543e6f75f9ff3117dadc98feff1
+Homepage: https://killespg.github.io/mizos-atualizacoes/
+Description: Base do MizOS: scripts, configurações, visual e atualizações
+ Modo Jogo, o comando mizos, configurações do labwc e da sessão, temas,
+ fontes, cursores, sons, arte, a tela de entrada e o repositório de
+ atualizações do MizOS (com a chave que assina os pacotes).
+
+Package: mizos-base
+Architecture: all
+Version: 0.1.0+202611122356
+Priority: optional
+Section: misc
+Maintainer: MizOS
+Installed-Size: 788
+Depends: mizos-desktop, libnotify-bin, pipewire-bin, apt
+Filename: pool/main/m/mizos-base/mizos-base_0.1.0+202611122356_all.deb
+Size: 105696
+MD5sum: f13bb758b84cc669613a7078b70efefd
+SHA1: 447cf2d189636818dd9e7a5b5d61a3ad7bce1830
+SHA256: eefb840e6662c0f1cc84c7d3e19a31dc23d709714773bc462c0b4adfb82d848c
+SHA512: 6ed0750e5870734852d005099835a5fa2e3259d4846c9fe88cb41e30bd804cebf417266cd955a6eb5c3cb43ad4d6fb2b0168b6ae2b2034ee51a6929221d5b1f5
+Homepage: https://killespg.github.io/mizos-atualizacoes/
+Description: Base do MizOS: scripts, configurações, visual e atualizações
+ Modo Jogo, o comando mizos, configurações do labwc e da sessão, temas,
+ fontes, cursores, sons, arte, a tela de entrada e o repositório de
+ atualizações do MizOS (com a chave que assina os pacotes).
+
+Package: mizos-base
+Architecture: all
+Version: 0.1.0+202611130216
+Priority: optional
+Section: misc
+Maintainer: MizOS
+Installed-Size: 852
+Depends: mizos-desktop, libnotify-bin, pipewire-bin, apt
+Filename: pool/main/m/mizos-base/mizos-base_0.1.0+202611130216_all.deb
+Size: 107100
+MD5sum: 177e697ff8c8b23ff7942fb8530e5c0d
+SHA1: d41a478dfe84d563665e3121a9f7e138b1d598ad
+SHA256: 5c52b8ec1a167f63612c754dbacad3ce86bbab9c8581de1317760050d257aeed
+SHA512: f47f553110b1bd0911065b012db963f89d5fbf7a2f0037ab6042db2e89b0eaf9803c065f4cec3b2e6ca02f3bf33b71291b624271b6e958f387f3ef4aeb9cf716
+Homepage: https://killespg.github.io/mizos-atualizacoes/
+Description: Base do MizOS: scripts, configurações, visual e atualizações
+ Modo Jogo, o comando mizos, configurações do labwc e da sessão, temas,
+ fontes, cursores, sons, arte, a tela de entrada e o repositório de
+ atualizações do MizOS (com a chave que assina os pacotes).
+
+Package: mizos-desktop
+Architecture: amd64
+Version: 0.1.0+202611122341
+Priority: optional
+Section: devel
+Maintainer: MizOS Project
+Installed-Size: 11538
+Depends: labwc, layer-shell-qt, qt6-wayland, qt6-svg-plugins, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libhunspell-1.7-0, liblayershellqtinterface6 (>= 6.1.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6network6 (>= 6.1.2), libqt6printsupport6 (>= 6.1.2), libqt6widgets6 (>= 6.3.0), libqt6xml6 (>= 6.6.0), libstdc++6 (>= 14), libwayland-client0 (>= 1.20.0), zlib1g (>= 1:1.2.0)
+Filename: pool/main/m/mizos-desktop/mizos-desktop_0.1.0+202611122341_amd64.deb
+Size: 4262526
+MD5sum: 3f5cc656712c26edcc3f683428beb3bd
+SHA1: ab3d217fef5fb79288b7cf388ad2ad4339f44329
+SHA256: 61b2e4b2ca86d3f95f8ae9895d098d74f6760d635926dfc9a910a3452206089d
+SHA512: 3d26f803b429aa7693ceffb0bce80a5544dc1f5ab04043e213a1474f169520f1e092f0abd052491f032f077f63c7f4a5ead15468fc1b2ac908e4a723cadb461f
+Description: Desktop do MizOS: Shell, Configurações, Gerenciador de Tarefas e MizOffice
+
+Package: mizos-desktop
+Architecture: amd64
+Version: 0.1.0+202611122356
+Priority: optional
+Section: devel
+Maintainer: MizOS Project
+Installed-Size: 12371
+Depends: labwc, layer-shell-qt, qt6-wayland, qt6-svg-plugins, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libhunspell-1.7-0, liblayershellqtinterface6 (>= 6.1.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6network6 (>= 6.1.2), libqt6printsupport6 (>= 6.1.2), libqt6webenginecore6 (>= 6.8.2), libqt6webenginecore6-bin (>= 6.8.2), libqt6webenginewidgets6 (>= 6.6.0), libqt6widgets6 (>= 6.3.0), libqt6xml6 (>= 6.6.0), libstdc++6 (>= 14), libwayland-client0 (>= 1.20.0), zlib1g (>= 1:1.2.0)
+Filename: pool/main/m/mizos-desktop/mizos-desktop_0.1.0+202611122356_amd64.deb
+Size: 4528900
+MD5sum: 7a2c99f50f4e5885ea7ed66113f28024
+SHA1: 8af80c647137a7dac8be91ba115f414dd470c0a4
+SHA256: e04d7b33b857e19975a3132722ea3e353f2aa6ffed03cdcba04d1f1b4527b21b
+SHA512: 1f02a2e36118a5c01db1958491c48cb941a8951fd4c920d4450194b5e153c0c9e29de90261fd9e4f792b2cf8e67de0cb098b92ca569809ef85d1456b92954c24
+Description: Desktop do MizOS: Shell, Configurações, Gerenciador de Tarefas, MizOffice e o navegador Vella
+
+Package: mizos-desktop
+Architecture: amd64
+Version: 0.1.0+202611130216
+Priority: optional
+Section: devel
+Maintainer: MizOS Project
+Installed-Size: 12378
+Depends: labwc, layer-shell-qt, qt6-wayland, qt6-svg-plugins, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libhunspell-1.7-0, liblayershellqtinterface6 (>= 6.1.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6network6 (>= 6.1.2), libqt6printsupport6 (>= 6.1.2), libqt6webenginecore6 (>= 6.8.2), libqt6webenginecore6-bin (>= 6.8.2), libqt6webenginewidgets6 (>= 6.6.0), libqt6widgets6 (>= 6.3.0), libqt6xml6 (>= 6.6.0), libstdc++6 (>= 14), libwayland-client0 (>= 1.20.0), zlib1g (>= 1:1.2.0)
+Filename: pool/main/m/mizos-desktop/mizos-desktop_0.1.0+202611130216_amd64.deb
+Size: 4531374
+MD5sum: bcfd6c2467d77786d477c3c13a3e6f29
+SHA1: c49b9946ae9de77dbc9da0b118a7c8e92715a579
+SHA256: 7051773886a49f216baae542ff43395667dbf6ccc8910608cfdf4b606fc02669
+SHA512: c2cecbcd41e7bf5c34435c56c4edc9d5d0a2f382b75695cee6e428aeaa405f01171711ca68e85e34ecb7af67e26cf62f31f646881f89ab79d30e3a452f3f7b9e
+Description: Desktop do MizOS: Shell, Configurações, Gerenciador de Tarefas, MizOffice e o navegador Vella
+

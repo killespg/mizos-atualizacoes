@@ -1,0 +1,29 @@
+Acquire-By-Hash: yes
+Architectures: amd64
+Codename: trixie
+Components: main
+Date: Fri, 13 Nov 2026 02:16:34 +0000
+Description: Atualizações do MizOS
+Label: MizOS
+Origin: MizOS
+Suite: trixie
+MD5Sum:
+ 7e116adf47a10b9ebbcbc931993d9585             1946 Release
+ f25336a442be347cff57b96afe49ca2f             6070 main/binary-amd64/Packages
+ c79f7807a4247fad2c27ceecbd4d9d43             1930 main/binary-amd64/Packages.gz
+ e900e3e594cf0b5068572bb31f6edfa4               79 main/binary-amd64/Release
+SHA1:
+ 425b4b723c4b90752bc0bbddbc856aa42369eb08             1946 Release
+ a2765614b0aea878477ed464a3a3d0b77b35f221             6070 main/binary-amd64/Packages
+ 5172627a18e4353491047f953b004fbb2d4a7c14             1930 main/binary-amd64/Packages.gz
+ 1d7fab4447572756fbd2b0f2df42719cf16128f0               79 main/binary-amd64/Release
+SHA256:
+ 69af7158e0e04632114d60513f996a7601f3db74bb2a2f1c6fd368d307921d06             1946 Release
+ bcb1ff91550d8bd2f506dde8ef2ed26873e57c6d7788d274df1f8dba5507dc30             6070 main/binary-amd64/Packages
+ c0032d2d8e62b532e801c29177d2ac848162c4c6a9c7582fa66b1de686b093fe             1930 main/binary-amd64/Packages.gz
+ 36eb2a9e36184d7f117d7df06ab4b863c698c011431a6112c855c95015d8297a               79 main/binary-amd64/Release
+SHA512:
+ aa306cdc80cc841b14afb28fdc44d3fdc05cb762c480086147fb6b18fbabc9c5591befec53b1e0cb605377dc45ea4dd60de5cb8a0d701c7372e5b62ad63faf49             1946 Release
+ 5c6727062c6a7e5361b2762e6cceecf15ff0f2ea8aa82ffe20285c7b60e7848b40038e6f9c7731db1939ddc0ba4c3eada6402e66a26b19019ccd503c0a81e376             6070 main/binary-amd64/Packages
+ a25860867c5d86b311b38b6480e209a29ebcb7b0a1ca37ff3a71ff0533e99ed8b41a1fd98591093af07a659d3153893a3c30bd4551407d59af21743b1058217f             1930 main/binary-amd64/Packages.gz
+ 8b95883451d8d079105435aa78a84a3d090a70495f0b2be51b6a77bb9fd9404eacae1ccf8fa4bb6214736591f95435fe1cd77918a4f5fd8f641a95995ff10c03               79 main/binary-amd64/Release

@@ -1,0 +1,108 @@
+Package: mizos-base
+Architecture: all
+Version: 0.1.0+202611122227
+Priority: optional
+Section: misc
+Maintainer: MizOS
+Installed-Size: 776
+Depends: mizos-desktop, libnotify-bin, pipewire-bin, apt
+Filename: pool/main/m/mizos-base/mizos-base_0.1.0+202611122227_all.deb
+Size: 104688
+MD5sum: d73e0fb303eeda5b0878816cb540906e
+SHA1: 58bd18a4c62b3dba127b964f3bb8e8d26c467612
+SHA256: 217f590bfddf170adb93c4af9634adaea900988618868871bed35d2d93e38197
+SHA512: 6212e519dce87dbac6415b1492ed6c57841d81d12e2524070908d6d5b1fd57cd510380dbc7709331b101fb1065dd38e35967f47c0fe39426e6f54bacdc8c8a24
+Homepage: https://killespg.github.io/mizos-atualizacoes/
+Description: Base do MizOS: scripts, configurações, visual e atualizações
+ Modo Jogo, o comando mizos, configurações do labwc e da sessão, temas,
+ fontes, cursores, sons, arte, a tela de entrada e o repositório de
+ atualizações do MizOS (com a chave que assina os pacotes).
+
+Package: mizos-base
+Architecture: all
+Version: 0.1.0+202611122244
+Priority: optional
+Section: misc
+Maintainer: MizOS
+Installed-Size: 780
+Depends: mizos-desktop, libnotify-bin, pipewire-bin, apt
+Filename: pool/main/m/mizos-base/mizos-base_0.1.0+202611122244_all.deb
+Size: 105252
+MD5sum: 1c9d8499af3e5e70b7c9cc0066babc7c
+SHA1: ace6ed48d8acf8ab58dc67e49656fe8537a455c0
+SHA256: 584197611484b318abc3d3b8812b45387d93addf43da8ca5cc9e377cd87f96ae
+SHA512: 7948747476977918477c349d05005d7ef0b7c07ac895c5400ac8a561422d2d96e22d60cb68e79ff6370d7ee8c546c4a837b1f91a61f40fc116518fac7db08b7a
+Homepage: https://killespg.github.io/mizos-atualizacoes/
+Description: Base do MizOS: scripts, configurações, visual e atualizações
+ Modo Jogo, o comando mizos, configurações do labwc e da sessão, temas,
+ fontes, cursores, sons, arte, a tela de entrada e o repositório de
+ atualizações do MizOS (com a chave que assina os pacotes).
+
+Package: mizos-base
+Architecture: all
+Version: 0.1.0+202611122341
+Priority: optional
+Section: misc
+Maintainer: MizOS
+Installed-Size: 780
+Depends: mizos-desktop, libnotify-bin, pipewire-bin, apt
+Filename: pool/main/m/mizos-base/mizos-base_0.1.0+202611122341_all.deb
+Size: 105088
+MD5sum: a5e78b26e9e4d22d8f21b1cae5802b75
+SHA1: d9bdfe89edb0e29f026273dd6e817f7b0a7dfebc
+SHA256: 43b00377f673c751626e037deaf1aeb6debc6325d2d239eec99ca17bde8269d1
+SHA512: 2d74da2bcb9a97d60bc1b782ceb446b8a905c07431ec73b9b20af7204b8d41805d589f49b1760b30107738c420b911e62cd93543e6f75f9ff3117dadc98feff1
+Homepage: https://killespg.github.io/mizos-atualizacoes/
+Description: Base do MizOS: scripts, configurações, visual e atualizações
+ Modo Jogo, o comando mizos, configurações do labwc e da sessão, temas,
+ fontes, cursores, sons, arte, a tela de entrada e o repositório de
+ atualizações do MizOS (com a chave que assina os pacotes).
+
+Package: mizos-desktop
+Architecture: amd64
+Version: 0.1.0+202611122227
+Priority: optional
+Section: devel
+Maintainer: MizOS Project
+Installed-Size: 10895
+Depends: labwc, layer-shell-qt, qt6-wayland, qt6-svg-plugins, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libhunspell-1.7-0, liblayershellqtinterface6 (>= 6.1.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6network6 (>= 6.1.2), libqt6printsupport6 (>= 6.1.2), libqt6widgets6 (>= 6.3.0), libqt6xml6 (>= 6.6.0), libstdc++6 (>= 14), libwayland-client0 (>= 1.20.0), zlib1g (>= 1:1.2.0)
+Filename: pool/main/m/mizos-desktop/mizos-desktop_0.1.0+202611122227_amd64.deb
+Size: 3984476
+MD5sum: b669c64ad5feb00ac7628ca105410273
+SHA1: 4f061be4d0df0a434963aed9edcf447bfdd1a7a1
+SHA256: a81561195b36bf44743737c60bffdae67aeb9cd627d799807d2e74094807fec7
+SHA512: e2c10d8c1c64d3c87b3b7705a24b8dae113fc1fb58bbf74e47c401285218c1743895163fac37c4cc12d7a8ef83c956379213c0bc2a246a23e1b8002b5e237aa3
+Description: Desktop do MizOS: Shell, Configurações, Gerenciador de Tarefas e MizOffice
+
+Package: mizos-desktop
+Architecture: amd64
+Version: 0.1.0+202611122244
+Priority: optional
+Section: devel
+Maintainer: MizOS Project
+Installed-Size: 10896
+Depends: labwc, layer-shell-qt, qt6-wayland, qt6-svg-plugins, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libhunspell-1.7-0, liblayershellqtinterface6 (>= 6.1.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6network6 (>= 6.1.2), libqt6printsupport6 (>= 6.1.2), libqt6widgets6 (>= 6.3.0), libqt6xml6 (>= 6.6.0), libstdc++6 (>= 14), libwayland-client0 (>= 1.20.0), zlib1g (>= 1:1.2.0)
+Filename: pool/main/m/mizos-desktop/mizos-desktop_0.1.0+202611122244_amd64.deb
+Size: 3985916
+MD5sum: 3630cafcd07dc0aa097424a9fe472bc9
+SHA1: a13b221fa1fb95c4f44dabb140433395b4f69a91
+SHA256: 0751d7b326c6d5f477f7c2fae775665079c5dfbbbac79fec180df89d05db0ac3
+SHA512: 5fd6622632543c2bd16abe57760ef4d0c1080203669f34046f1aa339caf6b383f522373cfd1d6fd6904f2b6077b28558ee3da93371261c9b95904c29dec02d95
+Description: Desktop do MizOS: Shell, Configurações, Gerenciador de Tarefas e MizOffice
+
+Package: mizos-desktop
+Architecture: amd64
+Version: 0.1.0+202611122341
+Priority: optional
+Section: devel
+Maintainer: MizOS Project
+Installed-Size: 11538
+Depends: labwc, layer-shell-qt, qt6-wayland, qt6-svg-plugins, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libhunspell-1.7-0, liblayershellqtinterface6 (>= 6.1.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6network6 (>= 6.1.2), libqt6printsupport6 (>= 6.1.2), libqt6widgets6 (>= 6.3.0), libqt6xml6 (>= 6.6.0), libstdc++6 (>= 14), libwayland-client0 (>= 1.20.0), zlib1g (>= 1:1.2.0)
+Filename: pool/main/m/mizos-desktop/mizos-desktop_0.1.0+202611122341_amd64.deb
+Size: 4262526
+MD5sum: 3f5cc656712c26edcc3f683428beb3bd
+SHA1: ab3d217fef5fb79288b7cf388ad2ad4339f44329
+SHA256: 61b2e4b2ca86d3f95f8ae9895d098d74f6760d635926dfc9a910a3452206089d
+SHA512: 3d26f803b429aa7693ceffb0bce80a5544dc1f5ab04043e213a1474f169520f1e092f0abd052491f032f077f63c7f4a5ead15468fc1b2ac908e4a723cadb461f
+Description: Desktop do MizOS: Shell, Configurações, Gerenciador de Tarefas e MizOffice
+
